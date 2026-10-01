@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120.00 120.00" role="img" aria-label="Hygelis"><title>Hygelis</title><rect width="120" height="120" rx="26" fill="#0B1220"/><g transform="translate(18.00 16.00) scale(0.8400)">
+    <path d="M45 7 C31 13 20 15 11 17 C11 52 22 76 47 93" fill="none" stroke="#FFFFFF" stroke-width="7.5" stroke-linecap="round"/>
+    <path d="M55 7 C69 13 80 15 89 17 C89 52 78 76 53 93" fill="none" stroke="#FFFFFF" stroke-width="7.5" stroke-linecap="round"/>
+    <path d="M29 66 L46 52 L71 30" fill="none" stroke="#18B6A4" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="29" cy="66" r="7" fill="#2F80ED"/><circle cx="46" cy="52" r="7" fill="#2F80ED"/><circle cx="71" cy="30" r="8.5" fill="#18B6A4"/>
+  </g></svg>
